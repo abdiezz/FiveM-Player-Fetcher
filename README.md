@@ -1,1 +1,1 @@
-This is my first Python script ever.
+This is my first Python script.
