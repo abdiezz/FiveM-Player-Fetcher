@@ -1,0 +1,5 @@
+requests
+
+# Installation Instructions:
+# To install the required package, run the following command in your cmd:
+# pip install -r requirements.txt
